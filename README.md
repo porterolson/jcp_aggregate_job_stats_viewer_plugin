@@ -1,0 +1,1 @@
+# jcp_aggregate_job_stats_viewer_plugin
